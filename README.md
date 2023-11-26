@@ -1,7 +1,5 @@
 # SMA Trading Strategy Analyzer
 
-![image](https://github.com/Stoyanggg/SMA-Strategy-Project-/assets/61680168/569c788b-8884-4411-a08d-5059215cbdf4)
-
 
 ## Overview
 
