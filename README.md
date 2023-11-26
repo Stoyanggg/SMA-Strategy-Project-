@@ -1,5 +1,8 @@
 # SMA Trading Strategy Analyzer
 
+![image](https://github.com/Stoyanggg/SMA-Strategy-Project-/assets/61680168/569c788b-8884-4411-a08d-5059215cbdf4)
+
+
 ## Overview
 
 The SMA Trading Strategy Analyzer is a Python tool crafted to facilitate the analysis of Simple Moving Average (SMA) trading strategies, leveraging historical price data obtained from Yahoo Finance. This tool enables users to quickly assess and visualize the performance of SMA-based trading strategies for a variety of financial instruments.
